@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b31eae-02c0-4747-b1e0-62c5bca51560" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/HelloWorld.java" afterDir="false" />
+    <list default="true" id="31b31eae-02c0-4747-b1e0-62c5bca51560" name="Changes" comment="hello world and cat">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +71,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658064847447</updated>
-      <workItem from="1658064849883" duration="310000" />
+      <workItem from="1658064849883" duration="1816000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1658065256359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658065256359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ended with smiley character :-)">
+      <created>1658065578840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658065578840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +103,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="ended with smiley character :-)" />
+    <MESSAGE value="hello world and cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world and cat" />
   </component>
 </project>
